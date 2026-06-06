@@ -2,8 +2,11 @@
 
 A somewhat overengineered and janky asset downloader for M\*hjong S\*\*l.
 
+
 > [!CAUTION]
-> On 2026-05-26 Y*star has killed the old web client and replaced it with Unity one. The assets are still downloadable, but they are not being updated anymore, so you can still use it to download older assets. Unfortunately, this switch completely changed how **everything** works, affecting both the assets and the metadata used to derive the file paths and names. It's uncertain whether I'll actually update this program to support Unity Web, since it essentially requires a **complete rewrite**. If I do it, it might be months away from now. In the meantime, you can use one of the many existing Unity extractor on the desktop client.
+> **Use [Asset Meido](https://git.honk.li/czen/asset_meido) instead**.
+>
+> On 2026-05-26 Y*star has killed the old web client and replaced it with Unity one. The assets are still downloadable, but they are not being updated anymore, so you can still use it to download older assets. Unfortunately, this switch completely changed how **everything** works, affecting both the assets and the metadata used to derive the file paths and names.
 
 ### What does it even do?
 
